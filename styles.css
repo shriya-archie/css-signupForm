@@ -1,0 +1,36 @@
+
+@import url('http://fonts.cdnfonts.com/css/lobster-2');
+
+/* 
+FONTS
+font-family: 'Lobster', sans-serif;
+*/
+
+.form-control {
+    height: 40px;
+    width: 300px;
+    border-radius: 0;
+}
+
+.container {
+    height: 50vh;
+    display: grid;
+    place-items: center;
+    background: url("https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.container section h1 {
+    text-align: center;
+    margin: 40px;
+    font-family: 'Lobster', sans-serif;
+    font-size: 50px;
+    color: #654062;
+    text-shadow: 2px 4px #ffd66b;
+}
